@@ -1,3 +1,6 @@
+Password-Policy-Checker
+
+
 Password-Policy-Checker is a Python-based project developed in Google Colab to help users evaluate the strength and security of their passwords. The goal of this project was to apply fundamental cybersecurity best practices and Python programming skills to create a functional tool that both technical and non-technical users can understand. The script checks for key aspects of password security, including minimum length, character diversity (uppercase, lowercase, numbers, and special characters), and the exclusion of common weak passwords.
 
 The project was implemented in Google Colab to provide an accessible, cloud-based environment where the script could be developed, tested, and shared without the need for local setup. Using Colab also allowed for easy demonstrations of the script in action, which can be recorded or exported as GIFs or videos to visually show password evaluation results. This makes the project suitable for both learning purposes and sharing with a wider audience on professional platforms like LinkedIn.
